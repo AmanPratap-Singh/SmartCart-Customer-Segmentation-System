@@ -1,0 +1,2 @@
+# SmartCart
+Customer Segmentation System
